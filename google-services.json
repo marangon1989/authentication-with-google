@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071865923701",
+    "project_id": "fashinnovationeventapp",
+    "storage_bucket": "fashinnovationeventapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071865923701:android:ec61cec9429635c044903c",
+        "android_client_info": {
+          "package_name": "com.fashinnovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071865923701-8953mfqivr54mvjr06dneu1a55ahfujg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt3ByYD-gsq9gbKcT70FOEKy6zcEyZUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071865923701-8953mfqivr54mvjr06dneu1a55ahfujg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "fashinnovation",
+    "slug": "fashinnovation",
+    "scheme": "fashinnovation",
+    "owner": "marangoneric",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash-screen.png",
+      "backgroundColor": "#D6EBF4"
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ],
+    "android": {
+      "package": "com.fashinnovation",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fashinnovation",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}
